@@ -12,17 +12,14 @@ The modules below obey the following dir structure.
 		analysis/
 """
 from typing_extensions import List, Dict, Any
-import os, json, warnings
+import os, json, warnings, argparse
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 from Bio import SeqIO
 
 from af_pipeline.parser.initialize import Initialize
 from af_pipeline.interaction.interaction import Interaction
 from af_pipeline.rigid_bodies.rigid_bodies import RigidBodies
 from af_pipeline.constants.af_constants import (
-	BestPredictionFields,
     MetricLevel,
 	PlotType,
 	FileFormat
@@ -889,6 +886,30 @@ class GataAnalysis():
 ################################################################################
 ################################################################################
 if __name__ == "__main__":
-	# CreateAf3Inputs().forward()
-	GataAnalysis().forward()
+	parser = argparse.ArgumentParser(
+		description = "Structural analysis of GATA mutants."
+	)
+	parser.add_argument(
+		"-i", "--input",
+		type = str,
+		required = False,
+		action = "store_true",
+		default = False,
+		help = "Create inputs for AF3." )
+	parser.add_argument(
+		"-a", "--analysis",
+		type = str,
+		required = False,
+		action = "store_true",
+		default = False,
+		help = "Run analysis for the AF3 predicted structures." )
+
+	args = parser.parse_args()
+
+	if args.input:
+		CreateAf3Inputs().forward()
+	elif args.analysis:
+		GataAnalysis().forward()
+	else:
+		print( "Noting to do." )
 
