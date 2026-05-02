@@ -1,2 +1,2 @@
 # gata
-gata rahe mera dil; tu hi meri manzil; kahin beete na ye raatein; kahin beete na ye din
+Analyzing the effect of GATA protein mutants on its ability of binf DNA.
