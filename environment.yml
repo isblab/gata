@@ -1,0 +1,12 @@
+name: gata
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - typing-extensions
+    - biopython
+    - numpy
+    - pandas
