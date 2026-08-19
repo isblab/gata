@@ -17,7 +17,7 @@ Add `$PATH_TO_AF_PIPELINE` to `~/.bash_profile`. Then run,
 source ~/.bash_profile
 ```
 
-### Results
+## Results
 The `./gata_output/` directory contains the following:
 * af3_inputs
 	* dimer.json: AF3 input JSON file. Upload this file on the AF3 webserver to obtain the predictions.
