@@ -2,13 +2,6 @@
     "monomer": {},
     "dimer": {
         "gata_wt-gata_dna_h2h": "/home/kartik/Documents/gata/gata_output/analysis/rigid_body/dimer/gata_wt-gata_dna_h2h/",
-        "gata_ext-gata_dna_h2h": "/home/kartik/Documents/gata/gata_output/analysis/rigid_body/dimer/gata_ext-gata_dna_h2h/",
-        "gata_trunc-gata_dna_h2h": "/home/kartik/Documents/gata/gata_output/analysis/rigid_body/dimer/gata_trunc-gata_dna_h2h/",
-        "gata_splice-gata_dna_h2h": "/home/kartik/Documents/gata/gata_output/analysis/rigid_body/dimer/gata_splice-gata_dna_h2h/"
-    },
-    "mixed": {
-        "gata_wt-gata_ext-gata_dna_h2h": "/home/kartik/Documents/gata/gata_output/analysis/rigid_body/mixed/gata_wt-gata_ext-gata_dna_h2h/",
-        "gata_wt-gata_trunc-gata_dna_h2h": "/home/kartik/Documents/gata/gata_output/analysis/rigid_body/mixed/gata_wt-gata_trunc-gata_dna_h2h/",
-        "gata_wt-gata_splice-gata_dna_h2h": "/home/kartik/Documents/gata/gata_output/analysis/rigid_body/mixed/gata_wt-gata_splice-gata_dna_h2h/"
+        "gata_ext-gata_dna_h2h": "/home/kartik/Documents/gata/gata_output/analysis/rigid_body/dimer/gata_ext-gata_dna_h2h/"
     }
 }
