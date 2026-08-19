@@ -21,7 +21,18 @@ source ~/.bash_profile
 ```
 
 ## Analysis
-Run the `abcd.py` script to first create AF3 input files (`create` mode) and then to analyze the AF3 predictions (`dkadj` mode). 
+**Step 1**: To generate the AF3 input JSON files, run the following command
+```
+python gata_analysis.py -i
+```
+
+**Step 2**: Use the input JSON file to obtain predictions from the [AF3 webserver](https://alphafoldserver.com/).
+
+
+**Step 3**: For the performing the analysis, run the following command,
+```
+python gata_analysis.py -a
+```
 
 ## Results
 
