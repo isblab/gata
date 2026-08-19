@@ -59,4 +59,4 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 __Testable:__ Yes
 
-__Publication__ Nivedhya Venas, Mrunal Ratnaparkhi, Kartik Majila, Shruthi Viswanath, Dimple Notani, Radhakrishnan Sabarinathan, __GATA3-extension Mutants Rewire Lineage Identity in Luminal Breast cancer__, submitted.
+__Publication__ Nivedhya Venas, Mrunal Ratnaparkhi, Kartik Majila, Shruthi Viswanath, Dimple Notani, Radhakrishnan Sabarinathan, *GATA3-extension Mutants Rewire Lineage Identity in Luminal Breast cancer*, submitted.
