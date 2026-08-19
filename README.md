@@ -1,4 +1,4 @@
-# gata
+# GATA-DNA binding
 Analyzing the effect of GATA protein mutants on its ability to bind DNA.
 
 ## Setup
