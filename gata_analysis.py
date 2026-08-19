@@ -15,6 +15,8 @@ from typing_extensions import List, Dict, Any
 import os, json, warnings, argparse
 import numpy as np
 from Bio import SeqIO
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 from af_pipeline.parser.initialize import Initialize
 from af_pipeline.interaction.interaction import Interaction
@@ -630,13 +632,13 @@ class GataAnalysis():
 		confident_cmap, prot_lengths, dna_lengths = self.get_contact_map_for_pred(
 			initialize = initialize
 		)
-		self.save_contact_map(
-			confident_cmap = confident_cmap,
-			prot_lengths = prot_lengths,
-			dna_lengths = dna_lengths,
-			complex_type = complex_type,
-			complex_name = complex_name
-		)
+		# self.save_contact_map(
+		# 	confident_cmap = confident_cmap,
+		# 	prot_lengths = prot_lengths,
+		# 	dna_lengths = dna_lengths,
+		# 	complex_type = complex_type,
+		# 	complex_name = complex_name
+		# )
 		return prot_lengths, dna_lengths
 
 
@@ -891,14 +893,14 @@ if __name__ == "__main__":
 	)
 	parser.add_argument(
 		"-i", "--input",
-		type = str,
+		# type = str,
 		required = False,
 		action = "store_true",
 		default = False,
 		help = "Create inputs for AF3." )
 	parser.add_argument(
 		"-a", "--analysis",
-		type = str,
+		# type = str,
 		required = False,
 		action = "store_true",
 		default = False,
