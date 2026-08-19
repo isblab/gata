@@ -1,0 +1,48 @@
+Rigid Body 0
+A:305-388
+B:305-388
+C:1-22
+D:1-22
+
+Rigid Body 1
+A:233-304
+
+Rigid Body 2
+B:238-304
+
+Rigid Body 3
+B:145-200
+
+Rigid Body 4
+A:389-443
+
+Rigid Body 5
+B:1-55
+
+Rigid Body 6
+B:389-443
+
+Rigid Body 7
+A:1-54
+
+Rigid Body 8
+A:179-232
+
+Rigid Body 9
+A:55-106
+
+Rigid Body 10
+B:97-144
+
+Rigid Body 11
+B:56-96
+
+Rigid Body 12
+A:140-178
+
+Rigid Body 13
+B:201-237
+
+Rigid Body 14
+A:107-139
+

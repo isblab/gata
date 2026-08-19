@@ -1,0 +1,522 @@
+[
+    {
+        "name": "gata_wt-gata_dna_h2h_1",
+        "modelSeeds": [
+            1
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRKMSSKSKKCKKVHDSLEDFPKNSSFNPAALSRHMSSLSHISPFSHSSHMLTTPTPMHPPSSLSFGPHHPSSMVTAMG",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_wt-gata_dna_h2h_11",
+        "modelSeeds": [
+            11
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRKMSSKSKKCKKVHDSLEDFPKNSSFNPAALSRHMSSLSHISPFSHSSHMLTTPTPMHPPSSLSFGPHHPSSMVTAMG",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_wt-gata_dna_h2h_21",
+        "modelSeeds": [
+            21
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRKMSSKSKKCKKVHDSLEDFPKNSSFNPAALSRHMSSLSHISPFSHSSHMLTTPTPMHPPSSLSFGPHHPSSMVTAMG",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_wt-gata_dna_h2h_31",
+        "modelSeeds": [
+            31
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRKMSSKSKKCKKVHDSLEDFPKNSSFNPAALSRHMSSLSHISPFSHSSHMLTTPTPMHPPSSLSFGPHHPSSMVTAMG",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_wt-gata_dna_h2h_41",
+        "modelSeeds": [
+            41
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRKMSSKSKKCKKVHDSLEDFPKNSSFNPAALSRHMSSLSHISPFSHSSHMLTTPTPMHPPSSLSFGPHHPSSMVTAMG",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_ext-gata_dna_h2h_1",
+        "modelSeeds": [
+            1
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRKMSSKSKKCKKVHDSLEDFPKNSSFNPAALSRHMSSLSHISALQPLQPHADHAHADAPAIQPVLWTTPPLQHGHRHGLEPCSMLTGPPARVPAVPFDLHFCRSSIMKPKRDGYMFLKAESKIMFATLQRSSLWCLCSNH",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_ext-gata_dna_h2h_11",
+        "modelSeeds": [
+            11
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRKMSSKSKKCKKVHDSLEDFPKNSSFNPAALSRHMSSLSHISALQPLQPHADHAHADAPAIQPVLWTTPPLQHGHRHGLEPCSMLTGPPARVPAVPFDLHFCRSSIMKPKRDGYMFLKAESKIMFATLQRSSLWCLCSNH",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_ext-gata_dna_h2h_21",
+        "modelSeeds": [
+            21
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRKMSSKSKKCKKVHDSLEDFPKNSSFNPAALSRHMSSLSHISALQPLQPHADHAHADAPAIQPVLWTTPPLQHGHRHGLEPCSMLTGPPARVPAVPFDLHFCRSSIMKPKRDGYMFLKAESKIMFATLQRSSLWCLCSNH",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_ext-gata_dna_h2h_31",
+        "modelSeeds": [
+            31
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRKMSSKSKKCKKVHDSLEDFPKNSSFNPAALSRHMSSLSHISALQPLQPHADHAHADAPAIQPVLWTTPPLQHGHRHGLEPCSMLTGPPARVPAVPFDLHFCRSSIMKPKRDGYMFLKAESKIMFATLQRSSLWCLCSNH",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_ext-gata_dna_h2h_41",
+        "modelSeeds": [
+            41
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRKMSSKSKKCKKVHDSLEDFPKNSSFNPAALSRHMSSLSHISALQPLQPHADHAHADAPAIQPVLWTTPPLQHGHRHGLEPCSMLTGPPARVPAVPFDLHFCRSSIMKPKRDGYMFLKAESKIMFATLQRSSLWCLCSNH",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_trunc-gata_dna_h2h_1",
+        "modelSeeds": [
+            1
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRQRRPRVQRLRPVLQAAQHQP",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_trunc-gata_dna_h2h_11",
+        "modelSeeds": [
+            11
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRQRRPRVQRLRPVLQAAQHQP",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_trunc-gata_dna_h2h_21",
+        "modelSeeds": [
+            21
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRQRRPRVQRLRPVLQAAQHQP",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_trunc-gata_dna_h2h_31",
+        "modelSeeds": [
+            31
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRQRRPRVQRLRPVLQAAQHQP",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_trunc-gata_dna_h2h_41",
+        "modelSeeds": [
+            41
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRQRRPRVQRLRPVLQAAQHQP",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_splice-gata_dna_h2h_1",
+        "modelSeeds": [
+            1
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRL",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_splice-gata_dna_h2h_11",
+        "modelSeeds": [
+            11
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRL",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_splice-gata_dna_h2h_21",
+        "modelSeeds": [
+            21
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRL",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_splice-gata_dna_h2h_31",
+        "modelSeeds": [
+            31
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRL",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "gata_splice-gata_dna_h2h_41",
+        "modelSeeds": [
+            41
+        ],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLPEEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKALGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKDVSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHPITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRL",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "AATGTCCATCTGATAAGAGACG",
+                    "count": 1
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CGTCTCTTATCAGATGGACATT",
+                    "count": 1
+                }
+            }
+        ]
+    }
+]
